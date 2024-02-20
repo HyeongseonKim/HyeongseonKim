@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HyeongseonKim
 - 👀 I’m interested in Eco-Friendly Life.
 - 🌱 I’m currently learning how to make the great game.
-- 💞️ I’m looking to collaborate on BIB.
 - 📫 How to reach me is just contact my email: gudtjs2912@gmail.com
 
 <!---
